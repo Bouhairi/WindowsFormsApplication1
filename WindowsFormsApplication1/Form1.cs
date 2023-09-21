@@ -37,7 +37,7 @@ namespace WindowsFormsApplication1
                 }
             } while (numero != 0);
 
-            Console.WriteLine($"La somme des numéros entrés est : {somme}");
+            Console.WriteLine($"La somme des numéros entrés est tarik: {somme}");
         }
     }
 }
